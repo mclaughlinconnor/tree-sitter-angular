@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/steelsojka/tree-sitter-angular#readme",
   "dependencies": {
-    "nan": "^2.14.2"
+    "nan": "^2.18.0"
   },
   "devDependencies": {
-    "tree-sitter-cli": "^0.17.2"
+    "tree-sitter-cli": "^0.20.6"
   }
 }

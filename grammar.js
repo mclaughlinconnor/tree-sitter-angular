@@ -4,7 +4,7 @@ const PREC = {
 };
 
 module.exports = grammar({
-  name: "angular",
+  name: "angular_expr",
   rules: {
     program: $ => repeat($._definition),
     _definition: $ => choice(
